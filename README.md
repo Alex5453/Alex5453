@@ -3,9 +3,9 @@ Header
 ## I'm an engineer QA and a game designer in the future
 
 ### Lenguages and Tools
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=f89820)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=4B8BBE)
+[![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=f89820)](https://github.com/Alex5453/java)
+[![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://github.com/Alex5453/C-)
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=4B8BBE)](https://github.com/Alex5453/Python)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=C%2b%2b&logoColor=EF5B25)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=00758F)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052CC)
