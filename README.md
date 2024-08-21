@@ -13,7 +13,7 @@ Header
 
 ## Teating Documentation
 - [Checklists](https://github.com/Alex5453/checklists)
-- [Test-Plans](https://github.com/Alex5453/test-plans)
+- [Test-Plans](https://github.com/Alex5453/Test-Plans)
 - [Test-Cases](https://github.com/Alex5453/test-cases)
 - [Bug-Reports](https://github.com/Alex5453/Bug-reports)
 - [Testing-Reports](https://github.com/Alex5453/testing-reports)
